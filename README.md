@@ -24,12 +24,10 @@ Based in Jyväskylä, Finland | Bilingual (English/Spanish)
 ## Projects
 
 ### Project 1: [Project Name]  
-*Description:* Briefly explain the project goals and tools used.  
-*Link:* [Link to the project files or notebook]
 
-### Project 2: [Project Name]  
-*Description:* Briefly explain the project goals and tools used.  
-*Link:* [Link to the project files or notebook]
+
+### Project 2: 
+
 
 ---
 
