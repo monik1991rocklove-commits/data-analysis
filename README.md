@@ -13,6 +13,11 @@ Development of a professional website for a construction company.
 🔧 Technologies: HTML, CSS, JavaScript  
 📦 Status: In progress
 
+## Projects
+
+### Data Cleaning Project
+[View Notebook](data_cleaning_project.ipynb) - Cleaning and preparing messy dataset using Python and Pandas.
+
 ---
 
 ## 📬 Contact
