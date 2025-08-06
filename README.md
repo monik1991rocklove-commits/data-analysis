@@ -1,42 +1,25 @@
-# Data Analysis Projects
+# Monica Nieto – Portfolio
 
-Welcome to my data analysis portfolio! This repository contains various projects where I apply data analysis, visualization, and business intelligence techniques to extract actionable insights.
-
----
-
-## About Me
-
-Hi, I'm Monica Nieto — a Market Research & Data Analyst passionate about turning data into meaningful stories and strategic decisions.  
-Based in Jyväskylä, Finland | Bilingual (English/Spanish)
+Welcome! This repository showcases personal projects in web development and data analysis.
 
 ---
 
-## Skills & Tools
+## 🧱 Current Project
 
-- Data Analysis & Visualization: Python (Pandas, Matplotlib, Seaborn), Power BI, Excel  
-- Business Intelligence  
-- Market Research  
-- Data Cleaning and Preparation  
+### 🌐 Website: Jori Construction
 
----
-
-## Projects
-
-**Project 1:** [Project Name]  
-(Details coming soon)
-
-**Project 2:** [Project Name]  
-(Details coming soon)
+Development of a professional website for a construction company.  
+🔗 [Live Site](https://monik1991rocklove.github.io/jori-construction)  
+🔧 Technologies: HTML, CSS, JavaScript  
+📦 Status: In progress
 
 ---
 
-## Contact
+## 📬 Contact
 
-Feel free to connect with me:
+📧 monikjaru@hotmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/monicanieto)
 
-- LinkedIn: [in/monicanieto](https://www.linkedin.com/in/monicanieto)  
-- Email: Monikjaru@hotmail.com  
+---
 
-Thank you for visiting my portfolio!
-
-
+> Thank you for visiting my profile 🚀
